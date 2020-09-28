@@ -56,6 +56,10 @@ h2 {
     margin-left: 6px;
 }
 
+body {
+    overflow-y: scroll;
+}
+
 .item-titles {
     width: 185px;
     height: 23px;
